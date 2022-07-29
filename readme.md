@@ -9,7 +9,9 @@ un texto
 - paso 5
 
 ## Subtilo
-un texto de ejemplo
--item 1
--item 2
--item 3
+
+un texto de ejemplo :3
+
+- item 1
+ -item 2
+- item 3
